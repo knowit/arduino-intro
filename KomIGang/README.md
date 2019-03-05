@@ -1,3 +1,3 @@
 # Kom i gang
 
-* [Installasjon](./KommeIGang/Installasjon.md)
+* [Installasjon](./Installasjon.md)
