@@ -8,3 +8,7 @@ For å delta på kurset, må du ha en bærbar datamaskin med Windows, Linux elle
 
 ## Forkunnskaper
 Elementær kunnskap om programmering (Java, C, Ruby, Perl e.l.)
+
+# Innhold
+
+* [Kom i gang](KomIGang/README.md)
