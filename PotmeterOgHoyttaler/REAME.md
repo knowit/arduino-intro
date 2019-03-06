@@ -8,8 +8,9 @@ Når bruker vrir på et potmeter, endre tonen som avgis i en høyttaler
 * når potmeteret vris mot klokken, blir tonen lysere
 
 ### Du trenger
+
 | Type          | Antall           | Kommentar  |  Utseeende |
-| ------------- | :------------- |:-----| ---- |
+| ------------- | :------------- | :-----| ---- |
 | Piezo element	| 1 | Dette er høyttaleren	 | ![](../img/piezo.jpg)
 | Potmeter	| 1 | Dette er den du vrir på for å bestemme tonehøyden | ![](../img/potmeter.png)	 
 
