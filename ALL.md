@@ -18,3 +18,6 @@ Introduksjon til Arduino
 
 /LesPotmeter/fasit.md
 
+/PotmeterOgHoyttaler/REAME.md
+
+/PotmeterOgHoyttaler/fasit.md

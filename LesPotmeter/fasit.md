@@ -1,5 +1,6 @@
 ### Fasit: Styr LED med potmeter
 
+
 ```
 int potPin = 0;
 int ledPin = 8;
