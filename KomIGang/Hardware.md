@@ -1,4 +1,4 @@
-## Hardware
+### Hardware
 
 Arduino en rekke innganger:
 
@@ -15,7 +15,7 @@ Merk at de digitale inngangene og utgangene deler samme fysiske inngang/ utgang.
 ![Arduino](./arduinoHardware.png)
 
 
-### Se også
+#### Se også
 
  * [LKK:Blinkende lysdiode](https://oppgaver.kidsakoder.no/arduino/blinkende_lysdiode/blinkende_lysdiode)
  * [circuit.io: An Introduction to arduino uno pinout](https://www.circuito.io/blog/arduino-uno-pinout/)
