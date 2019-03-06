@@ -11,3 +11,5 @@ Elementær kunnskap om programmering (Java, C, Ruby, Perl e.l.)
 ## Innhold
 
 * [Kom i gang](KomIGang/README.md)
+* [Styr LED fra knapp](StyrLEDFraKnapp/README.md)
+* [Les potmeter](LesPotmeter/README.md)
