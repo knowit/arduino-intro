@@ -1,4 +1,4 @@
-## Fasit: Styre LED fra Lampe
+### Fasit: Styr LED fra Lampe
 
 ```
 // denne variabelen holder på status på knappen

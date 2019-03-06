@@ -13,3 +13,8 @@ Introduksjon til Arduino
 /StyrLEDFraKnapp/README.md
 
 /StyrLEDFraKnapp/fasit.md
+
+/LesPotmeter/README.md
+
+/LesPotmeter/fasit.md
+
