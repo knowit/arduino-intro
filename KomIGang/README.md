@@ -1,5 +1,13 @@
 ## Kom i gang
 
+Arduino er en åpen (open source software og hardware) plattform bestående av en enkel mikroprosessor og programvare som ble utviklet i Italia i 2003 av Interaction Design Institute Ivrea. Enheten er oppkalt av en lokal bar i nærheten av skolen. Plattformen er svært populær for amatører for å få innføring i mikroprosessorer og i skole og annen opplæring. Den er også veldig populær til prototyping.
+
+Etter lanseringen har det etterhvert kommet mange forskjellige nye modeller og kopier, men ofte benyttes klassikeren, Arduino Uno, eller enheter som er lik på denne.
+
+Arduino kobles vanligvis til PC eller Mac med USB. Selve enheten er på størrelse med et bankkort med innganger og utganger som sørger for kommunikasjon med eksterne enheter som brytere, vriknotter, lamper og små høyttalere. Arduino programmeres som oftest med forenklet versjon av C++ Arduino kan integreres med veldig mange forskjellige språk og verktøy.
+
+Det er et stort fagmiljø rundt Arduino og det finnes veldig mange tips og oppskrifter på nettet. Veldig mange standard sensorer, brytere, skjermer, og utbyggingskort fungerer godt med Arduino. Dette betyr at det er stort utvalg av enheter som kan kobles til Arduino.
+
 ### Installasjon av Arduino IDE
 
 Last ned programvaren her:
@@ -9,7 +17,7 @@ Last ned programvaren her:
 Pakk ut filen på valgfritt sted og dobbeltklikk på den.
 
 #### Mer informasjon
-Mer om installasjon og intrukser for flere operativsystemer finner du her (avsnitt **Install the Arduino Desktop IDE**) :
+Mer om installasjon og instrukser for flere operativsystemer finner du her (se avsnitt "Install the Arduino Desktop IDE"):
 
 * [http://arduino.cc/en/Guide/HomePage](http://arduino.cc/en/Guide/HomePage)
 

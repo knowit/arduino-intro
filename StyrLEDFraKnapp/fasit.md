@@ -2,7 +2,7 @@
 
 ```
 // denne variabelen holder på status på knappen
-int buttonState = 0;
+bool buttonState = LOW;
 
 void setup()  {
   // pin 2 konfigureres til å gi signaler ut til LED (OUTPUT)
@@ -11,17 +11,14 @@ void setup()  {
   pinMode(3, INPUT);
 }
 
+
 void loop() {
-    // les verdi på knapp (av eller på)
-    buttonState = digitalRead(3);
-    // hvis knapp er trykket inn
-    if( buttonState == true ) {
-      // tenn lampe
-      digitalWrite(2, HIGH);  
-      // vent 2 sekunder
-      delay(2000);
-      // slukk lampen
-      digitalWrite(2, LOW);  
-    }
+  digitalWrite(2, LOW);
+  // les verdi på knapp (av eller på)
+  buttonState = digitalRead(3);
+  if ( buttonState) {
+    digitalWrite(2, HIGH);
+    delay(2000);
+  }
 }
 ```
