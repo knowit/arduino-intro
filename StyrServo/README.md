@@ -43,8 +43,11 @@ void loop() {
 
 ### Oppgave
  
+Koble til til et potmeter. Når du vrir på potmeteret, så beveger servoen på seg. Lag programmet slik at servoen
+følger potmeteret, og at servoen er i samme ytterpunkt som potmeteret. 
 
-Problemer? Se fasit
+
+Problemer? Se [fasit](./fasit.md)
 
 #### Mer informasjon
 
