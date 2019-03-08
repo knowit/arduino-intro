@@ -64,4 +64,4 @@ Det du skal gjøre i denne oppgaven er å lage et program som gjør dette:
 
 Oppkobling:
 
-![](./pot_pwm.png)
+![](./pot_pwm_bb.png)
