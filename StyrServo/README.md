@@ -9,7 +9,7 @@ Servomotoren skal gå sakte en en retning og så fort som mulig i den andre retn
 ### Du trenger
 
 | Type          | Antall           | Kommentar  |  Utseeende |
-| ------------- | :------------- | :-----| ---- | 
+| ------------- | :------------- | :-----| :----: | 
 | Servo	| 1 | Dette er motoren	 | ![](../img/servo.png)
 
 Skru en arm på servoen:

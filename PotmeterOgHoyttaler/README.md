@@ -10,8 +10,8 @@ Når bruker vrir på et potmeter, endre tonen som avgis i en høyttaler
 ### Du trenger
 
 | Type          | Antall           | Kommentar  |  Utseeende |
-| ------------- | :------------- | :-----| ---- |
-| Piezo element	| 1 | Dette er høyttaleren	 | ![](../img/piezo.jpg)
+| ------------- | :------------- | :-----| :----: |
+| Piezo element	| 1 | Dette er høyttaleren	 | ![](../img/piezo.png)
 | Potmeter	| 1 | Dette er den du vrir på for å bestemme tonehøyden | ![](../img/potmeter.png)	 
 
 

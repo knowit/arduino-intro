@@ -11,7 +11,7 @@
 
 
 | Type          | Antall           | Kommentar  |  Utseeende |
-| ------------- | :------------- |:-----| ---- |
+| ------------- | :------------- |:-----| :----: |
 | LED           | 1    | Lampe | ![LED](../img/led.png)
 | Trykkbryter	| 1	   |   |  ![Switch](../img/button.png)
 | Motstand 330 Ohm | 1 | Denne beskytter LED for for høy spenning | ![](../img/330ohm.png) 	
