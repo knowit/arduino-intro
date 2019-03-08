@@ -18,7 +18,7 @@ Potentiometeret har en variabel motstand som endrer seg når du vrir på det.
 
 ### Konstruksjon
 
-![](./oppg2.png)
+![](./LesPotmeter_bb.png)
 
 ### Program
 
