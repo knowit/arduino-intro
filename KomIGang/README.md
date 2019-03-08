@@ -71,3 +71,7 @@ Som et eksempel, tenk deg en krets der en lampe (LED) er koblet til en motstand 
 Denne kretsen kan lages på et breadboard slik:
 
 ![](./bryterogled.png)
+
+Slik ser kretsen ut i virkeligheten:
+
+![](./bryterogled_bilde.jpg)
