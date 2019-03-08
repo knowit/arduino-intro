@@ -1,7 +1,7 @@
 
 ## Les potmeter
 
-
+Et poteter (fullt navn: potentiometer) er en komponent som endrer motstand når du vrir på akselen. Mange kjenner disse igjen fra volumkontroller o.l.
 
 ### Funksjonalitet
 
@@ -38,12 +38,13 @@ void loop() {
 }
 ```
 
-
-
 Når programmet er lastet opp og kjører, åpne Serial Monitor, vri på potmeter og les av verdier på inngangen:
 
 ![](./runoppg2.png)
 
+Du kan også se verdien i en graf. Lukk Serial Monotor og velg velg menyen Tools -> Serial Plotter. Du skal da se en graf:
+
+![](./serialgraph.png)
 
 ### Oppgave
 I denne oppgaven skal du kontrollere lysintensiteten på en LED. 
@@ -52,25 +53,13 @@ Vi styrer intensiteten til lampen ved ved å å slå den fort av og på i høyt 
 
 Det man gjør er at man justerer forholdet mellom hvor ofte LEDen er på, og når den er av.
 
-Eksempelkode på hvordan man lyser en led med 50% lysstyrke:
+Bruk funksjonen ```analogWrite``` for å styre LED-en ved hjelp av PWM. Verdien 255 er full styrke, og verdien 0 er lavest styrke. Mer info:
 
-```
-int ledPin = 8;
-void setup() {
-  pinMode(ledPin,OUTPUT);
-}
+* [https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/)
 
-void loop() {
-  digitalWrite(ledPin,HIGH);
-  delayMicroseconds(500);
-  digitalWrite(ledPin,LOW);
-  delayMicroseconds(500);
-}
-```
+Det du skal gjøre i denne oppgaven er å lage et program som gjør dette:
 
-Det du skal gjøre i denne oppgaven er å:
-
-1. Lese potmeterets verdi (du får det som en int mellom 0 og 1024.
+1. Les potmeterets verdi (du får det som en int mellom 0 og 1024.
 2. Dimme LEDen tilsvarende verdien på potmeteret.
 
 Oppkobling:
