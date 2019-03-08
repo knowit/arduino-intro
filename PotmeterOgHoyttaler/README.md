@@ -41,7 +41,7 @@ Problemer? Se fasit
 
 #### Mer informasjon
 Dokumentasjon på Tone API:
-* [http://www.arduino.cc/en/Reference/Tone]()
+* [http://www.arduino.cc/en/Reference/Tone](http://www.arduino.cc/en/Reference/Tone)
 
 
 

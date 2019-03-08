@@ -8,24 +8,28 @@
 #### Program
 
 ```
+int piezo = 2;
+int btn = 7;
+
 void setup() {
-  pinMode(2,OUTPUT);
-  pinMode(3,INPUT);
+  pinMode(piezo, OUTPUT);
+  pinMode(btn, INPUT);
 }
 
 void loop() {
-    // hvis knappen trykkes inn
-    if( digitalRead(3) == HIGH ) {
-      // tell fra 10 000 Hz til 1 med intervall på 10 Hz
-      for( int i = 10000 ; i > 1 ; i = i - 10 ) {
-        // lag en tone i 2 millisekunder
-        tone(2, i ,2 );
-        // vent to millisekunder så tonen får spilt ferdig
-        delay(2);
-      }
-      // lag en mørk tone
-      tone(2, 60, 500);
+
+  if ( digitalRead(btn) ) {
+    for ( int i = 4000 ; i > 200 ; i = i-2 ) {
+      tone(piezo, i);
+      delay(1);
     }
-}
+    for ( int i = 1000 ; i > 0 ; i-- ) {
+      tone(piezo, random(2000));
+      delay(1);
+    }
+
+  }
+  noTone(piezo);
+
 } 
 ```
