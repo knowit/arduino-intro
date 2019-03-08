@@ -2,7 +2,7 @@
 
 #### Konstruksjon
 
-![](./fasitkonstruksjon.png)
+![](./fasitkonstruksjon_bb.png)
 
 #### Program
 

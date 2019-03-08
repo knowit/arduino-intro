@@ -65,3 +65,5 @@ Det du skal gjøre i denne oppgaven er å lage et program som gjør dette:
 Oppkobling:
 
 ![](./pot_pwm_bb.png)
+
+Problemer? Se [fasit](./fasit.md))
