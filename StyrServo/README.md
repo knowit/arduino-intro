@@ -20,7 +20,7 @@ Armen gjør at det er enklere å se hvilken vinkel aksen er på.
 
 ### Konstruksjon
 
-![](./basiskonstruksjon.png)
+![](./styrenservo_bb.png)
 
 ### Program
 
