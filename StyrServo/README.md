@@ -1,10 +1,10 @@
 ## Styr en servomotor
 
-Servomotorer er små elektriske motorer der du kan styre vinkelen på aksen svært nøyaktig. En vanlig servo har bare 180 graders bevegelsesfrihet. Til gjengjeld vet ned alltid hvor aksen er på disse 180 gradene.
+Servomotorer er små elektriske motorer der du kan styre vinkelen på aksen svært nøyaktig. En vanlig servo har bare 180 graders bevegelsesfrihet. Til gjengjeld vet den alltid hvor aksen er på disse 180 gradene.
 
 ### Funksjonalitet
 
-Servomotoren skal gå sakte en en retning og så fort som mulig i den andre retningen.
+Servomotoren skal gå sakte i en retning og så fort som mulig i den andre retningen.
 
 ### Du trenger
 
@@ -43,7 +43,7 @@ void loop() {
 
 ### Oppgave
  
-Koble til til et potmeter. Når du vrir på potmeteret, så beveger servoen på seg. Lag programmet slik at servoen
+Koble til et potmeter. Når du vrir på potmeteret, så beveger servoen på seg. Lag programmet slik at servoen
 følger potmeteret, og at servoen er i samme ytterpunkt som potmeteret. 
 
 

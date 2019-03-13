@@ -5,7 +5,7 @@
 Når bruker vrir på et potmeter, endre tonen som avgis i en høyttaler
 
 * når potmeteret vris mot klokken, blir tonen mørkere
-* når potmeteret vris mot klokken, blir tonen lysere
+* når potmeteret vris med klokken, blir tonen lysere
 
 ### Du trenger
 

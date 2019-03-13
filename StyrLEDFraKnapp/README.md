@@ -14,7 +14,7 @@
 | ------------- | :------------- |:-----| :----: |
 | LED           | 1    | Lampe | ![LED](../img/led.png)
 | Trykkbryter	| 1	   |   |  ![Switch](../img/button.png)
-| Motstand 330 Ohm | 1 | Denne beskytter LED for for høy spenning | ![](../img/330ohm.png) 	
+| Motstand 330 Ohm | 1 | Denne beskytter LED mot for høy strøm | ![](../img/330ohm.png) 	
 | Motstand 10 k Ohm | 1  | Dette er en såkalt pull- down resistor. Mer info lenger ned på siden | ![](../img/10kohm.png)
 
 ### Konstruksjon
@@ -24,7 +24,7 @@
 
 Motstanden på 10 KOhm som er koblet mellom bryter og jord er en såkalt pull- down motstand, og brukes for å "trekke" signalet ned til jord ( 0 V ). 
 
-Pass på at lampen (LED) har en lang "fot" og en kort "fot". Den lange foten går til skal kobles mot + (via motstand).
+Pass på at lampen (LED) har en lang "fot" og en kort "fot". Den lange foten skal kobles mot + (via motstand).
 
 For mer informasjon om pull- up og pull- down, se
 
@@ -56,13 +56,13 @@ void loop() {
 
 Last opp programmet med funksjonen "Upload": 
 
-Funker det ikke? Sjekk at LED er koblet riktig. Husk at lang fot skal kobles mot + (5V) og kort fot skal kobles mot minus/ jord ( 0 V .
-
-![](/upload.png)
+![](./upload.png)
 
 Programmet skal nå bli lastet opp. Når opplastingen er ferdig, trykker du på knappen. Lampen (LED) skal da lyse.
 
-Programmer for Arduino har to minst to funksjoner:
+Funker det ikke? Sjekk at LED er koblet riktig. Husk at lang fot skal kobles mot + (5V) gjennom motstanden og kort fot skal kobles mot minus/ jord (0V) .
+
+Programmer for Arduino har minst to funksjoner:
 
 * ```setup``` som brukes for å konfigurasjon (initalisering av variabler, innganger m.m.). Denne funksjonen kalles **en gang** når programmet startes.
 * ```loop``` kalles for evig.
@@ -71,7 +71,7 @@ Programmet fungerer slik:
 
  - funksjonen ```setup``` setter pin 2 som utgang og pin 3 som inngang
  - I funksjonen ```loop```:
-	 - tilstanden på ingang 3 leses av og lagres i ```buttonState```
+	 - tilstanden på inngang 3 leses av og lagres i ```buttonState```
 	 - tilstand på utgang 2 settes lik verdien av utgang 3
 
 Hvis du vil at lampen skal lyse når knappen ikke er trykket inn, og ikke lyse når knappen er trykket inn, så kan du endre siste linje i loop slik:

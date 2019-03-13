@@ -1,11 +1,11 @@
 
 ## Les potmeter
 
-Et poteter (fullt navn: potentiometer) er en komponent som endrer motstand når du vrir på akselen. Mange kjenner disse igjen fra volumkontroller o.l.
+Et potmeter (fullt navn: på engelsk: potentiometer, på nynorsk: potensiometer) er en komponent som endrer motstand når du vrir på akselen. Mange kjenner disse igjen fra volumkontroller o.l.
 
 ### Funksjonalitet
 
-Arduinoen leser av potmeteret og rapporterer verdien tilbake til datamaskinen over serieport,
+Arduinoen leser av potmeteret og rapporterer verdien tilbake til datamaskinen over serieport.
 
 Potentiometeret har en variabel motstand som endrer seg når du vrir på det.
 
@@ -59,7 +59,7 @@ Bruk funksjonen ```analogWrite``` for å styre LED-en ved hjelp av PWM. Verdien 
 
 Det du skal gjøre i denne oppgaven er å lage et program som gjør dette:
 
-1. Les potmeterets verdi (du får det som en int mellom 0 og 1024.
+1. Les potmeterets verdi (du får det som en int mellom 0 og 1023.
 2. Dimme LEDen tilsvarende verdien på potmeteret.
 
 Oppkobling:

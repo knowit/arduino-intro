@@ -4,7 +4,7 @@ Arduino er en åpen (open source software og hardware) plattform bestående av e
 
 Etter lanseringen har det etterhvert kommet mange forskjellige nye modeller og kopier, men ofte benyttes klassikeren, Arduino Uno, eller enheter som er lik på denne.
 
-Arduino kobles vanligvis til PC eller Mac med USB. Selve enheten er på størrelse med et bankkort med innganger og utganger som sørger for kommunikasjon med eksterne enheter som brytere, vriknotter, lamper og små høyttalere. Arduino programmeres som oftest med forenklet versjon av C++ Arduino kan integreres med veldig mange forskjellige språk og verktøy.
+Arduino kobles vanligvis til PC eller Mac med USB. Selve enheten er på størrelse med et bankkort med innganger og utganger som sørger for kommunikasjon med eksterne enheter som brytere, vriknotter, lamper og små høyttalere. Arduino programmeres som oftest med forenklet versjon av C++. Arduino kan integreres med veldig mange forskjellige språk og verktøy.
 
 Det er et stort fagmiljø rundt Arduino og det finnes veldig mange tips og oppskrifter på nettet. Veldig mange standard sensorer, brytere, skjermer, og utbyggingskort fungerer godt med Arduino. Dette betyr at det er stort utvalg av enheter som kan kobles til Arduino.
 
@@ -24,7 +24,7 @@ Mer om installasjon og instrukser for flere operativsystemer finner du her (se a
 
 ### Bli kjent med Arduinoen
 
-Arduino en rekke innganger:
+Arduino har en rekke innganger:
 
 * **USB** - for tilkopling til PC/ Mac/ Linux
 * **Jord / GND** - for å skape felles jordingspunkt for dine kretser
