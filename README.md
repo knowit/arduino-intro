@@ -15,6 +15,10 @@ Du trenger dette ustyret for å gjennomføre alle oppgavene:
 | Potmeter	| 1 | ![](./img/potmeter.png)
 | Piezo element (høyttaler)	| 1 | ![](./img/piezo.png)
 | Servomotor	| 1 | ![](./img/servo.png)
+| Breadboard (prototypebrett)	| 1 | ![](./img/bb.png)
+| Arduino | 1 | ![](./img/arduino.png)
+| Jumper wires | 5 | ![](./img/wires.png)
+
 
 I tillegg må du ha en datamaskin med Windows, Linux eller Mac. Maskinen må ha USB 2- port eller overgang til USB 2. 
 
