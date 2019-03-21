@@ -16,7 +16,7 @@ Du trenger dette ustyret for å gjennomføre alle oppgavene:
 | Piezo element (høyttaler)	| 1 | ![](./img/piezo.png)
 | Servomotor	| 1 | ![](./img/servo.png)
 | Breadboard (prototypebrett)	| 1 | ![](./img/bb.png)
-| Arduino | 1 | ![](./img/arduino.png)
+| Arduino | 1 | ![](./img/arduino_small.png)
 | Jumper wires | 5 | ![](./img/wires.png)
 
 
