@@ -4,7 +4,7 @@ Kurset gir en kort innføring i bruk av Arduino. Arduino er hardware og software
 
 ## Utstyr
 Du trenger en datamaskin og noen komponenter for å gjennomføre kurset.
-(Liste over utstyr)[utstyr.md]
+* [Liste over utstyr](utstyr.md)
 
 ## Forkunnskaper
 Elementær kunnskap om programmering (Java, C, Ruby, Perl e.l.).
