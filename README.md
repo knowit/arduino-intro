@@ -12,7 +12,7 @@ Du trenger dette ustyret for å gjennomføre alle oppgavene:
 | Trykkbryter	| 1	   |   |  ![Switch](./img/button.png)
 | Motstand 330 Ohm | 1 |  ![](./img/330ohm.png) 	
 | Motstand 10 k Ohm | 1  |  ![](./img/10kohm.png)
-| Potmeter	| 1 | ![LED](../img/potmeter.png)
+| Potmeter	| 1 | ![](./img/potmeter.png)
 | Piezo element (høyttaler)	| 1 | ![](./img/piezo.png)
 | Servomotor	| 1 | ![](./img/servo.png)
 
