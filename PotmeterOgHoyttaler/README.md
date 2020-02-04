@@ -15,9 +15,17 @@ Når bruker vrir på et potmeter, endre tonen som avgis i en høyttaler
 | Potmeter	| 1 | Dette er den du vrir på for å bestemme tonehøyden | ![](../img/potmeter.png)	 
 
 
+### Simulering i TinkerCAD
+
+![](./PotmeterOgHoyttaler_tinkercad.png)
+
+Krets i TinkerCAD:
+https://www.tinkercad.com/things/cTZKhnwJqq2-knowitarduino-intropotmeteroghoyttaler/editel
+
 ### Konstruksjon
 
 ![](./oppg3_0.png)
+
 
 ### Program
 
@@ -36,9 +44,6 @@ void loop() {
 
 Koble til en knapp. Når knappen trykkes, lages en lyd av bombe som eksploderer
  
-
-Problemer? Se fasit
-
 #### Mer informasjon
 Dokumentasjon på Tone API:
 * [http://www.arduino.cc/en/Reference/Tone](http://www.arduino.cc/en/Reference/Tone)

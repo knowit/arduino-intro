@@ -4,12 +4,16 @@
 
 ![](./3_1_fasit.png)
 
+#### Simulering i TinkerCAD
+
+![](./PotmeterOgHoyttaler-fasit-tinkercad.png)
+
 
 #### Program
 
 ```
 int piezo = 2;
-int btn = 7;
+int btn = 3;
 
 void setup() {
   pinMode(piezo, OUTPUT);
