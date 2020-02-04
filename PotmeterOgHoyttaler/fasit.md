@@ -8,6 +8,8 @@
 
 ![](./PotmeterOgHoyttaler-fasit-tinkercad.png)
 
+Krets i TinkerCAD:
+* https://www.tinkercad.com/things/d0f6X5CvnYa-knowitarduino-intropotmeteroghoyttaler-fasit/editel
 
 #### Program
 
