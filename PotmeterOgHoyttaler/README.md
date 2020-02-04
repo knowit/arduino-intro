@@ -19,8 +19,8 @@ Når bruker vrir på et potmeter, endre tonen som avgis i en høyttaler
 
 ![](./PotmeterOgHoyttaler_tinkercad.png)
 
-Krets i TinkerCAD:
-* https://www.tinkercad.com/things/cTZKhnwJqq2-knowitarduino-intropotmeteroghoyttaler/editel
+Se også:
+* [Krets i TinkerCAD](https://www.tinkercad.com/things/cTZKhnwJqq2-knowitarduino-intropotmeteroghoyttaler/editel)
 
 ### Konstruksjon
 
